@@ -1,6 +1,6 @@
 # John Colani — Product Design Portfolio
 
-> *"I design products that respect users — their emotions, time, privacy, and context. Whether the system is AI-assisted, personalized, or real-time, my goal is always the same: create meaningful, scalable, and human-centered experiences."*
+> **"I design products that respect users — their emotions, time, privacy, and context. Whether the system is AI-assisted, personalized, or real-time, my goal is always the same: create meaningful, scalable, and human-centered experiences."*
 
 ---
 
